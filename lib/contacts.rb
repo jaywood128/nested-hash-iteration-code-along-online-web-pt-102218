@@ -22,5 +22,5 @@ def remove_strawberry(contacts)
       ice_cream == "strawberry"}
   end
 end
-
+end
 end
